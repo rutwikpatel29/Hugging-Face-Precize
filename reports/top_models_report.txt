@@ -1,0 +1,12 @@
+Top 10 Downloaded Models on Hugging Face:
+
+Model: MIT/ast-finetuned-audioset-10-10-0.4593, Downloads: 523957253
+Model: google-bert/bert-base-uncased, Downloads: 61886790
+Model: openai/clip-vit-large-patch14, Downloads: 45689576
+Model: sentence-transformers/all-MiniLM-L6-v2, Downloads: 32260425
+Model: laion/CLIP-ViT-B-32-laion2B-s34B-b79K, Downloads: 29493699
+Model: distilbert/distilbert-base-uncased, Downloads: 21089279
+Model: jonatasgrosman/wav2vec2-large-xlsr-53-english, Downloads: 20993632
+Model: openai/clip-vit-base-patch32, Downloads: 16793115
+Model: sentence-transformers/all-mpnet-base-v2, Downloads: 16232540
+Model: openai/clip-vit-base-patch16, Downloads: 14244350
